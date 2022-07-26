@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dilip\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+      "projectUniqueName": "C:\\Users\\dilip\\Desktop\\New folder (10)\\Doppelio-Tech-assignment\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
       "projectName": "ConsoleApp4",
-      "projectPath": "C:\\Users\\dilip\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+      "projectPath": "C:\\Users\\dilip\\Desktop\\New folder (10)\\Doppelio-Tech-assignment\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
       "packagesPath": "C:\\Users\\dilip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dilip\\source\\repos\\ConsoleApp4\\ConsoleApp4\\obj\\",
+      "outputPath": "C:\\Users\\dilip\\Desktop\\New folder (10)\\Doppelio-Tech-assignment\\ConsoleApp4\\ConsoleApp4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dilip\\AppData\\Roaming\\NuGet\\NuGet.Config",
