@@ -224,7 +224,7 @@ namespace ConsoleApp4
                 {
                     p_pair = dep_proj[i].Replace("P", "").Split(',');
 
-                    // Add each depenencies into a graph
+                    // Add each dependencies into a graph
                     process.AddEdge(Convert.ToInt32(p_pair[0]) - 1, Convert.ToInt32(p_pair[1]) - 1);
                 }
                 if (process.isCyclic())
