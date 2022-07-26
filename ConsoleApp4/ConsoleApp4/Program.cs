@@ -229,7 +229,7 @@ namespace ConsoleApp4
                 }
                 if (process.isCyclic())
                 {
-                    throw new ArgumentException("There is cycle exisits in given dependencies");
+                    throw new ArgumentException("There is a Cycle exists in given dependencies");
                 }
                 // Get Tropological Sort Project list
                 proj_result = process.ProjectSort();
